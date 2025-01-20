@@ -1,1 +1,0 @@
-window._CCSettings={platform:"web-mobile",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:false,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/scenes/main.fire",orientation:"portrait",jsList:["assets/scripts/common/utils/socket.io/socket.io.8bb45.js"],bundleVers:{common_texture_ui:"5e963",internal:"d17e2",main:"b5658"}};
