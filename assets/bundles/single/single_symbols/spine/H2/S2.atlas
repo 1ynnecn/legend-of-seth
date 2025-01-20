@@ -1,0 +1,55 @@
+
+S2.png
+size: 190,301
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 41
+  size: 67, 91
+  orig: 75, 113
+  offset: 5, 20
+  index: -1
+left body
+  rotate: true
+  xy: 2, 2
+  size: 37, 70
+  orig: 39, 74
+  offset: 1, 0
+  index: -1
+pattern
+  rotate: false
+  xy: 95, 15
+  size: 90, 89
+  orig: 109, 169
+  offset: 0, 42
+  index: -1
+pink bottom
+  rotate: true
+  xy: 2, 110
+  size: 89, 100
+  orig: 95, 130
+  offset: 1, 29
+  index: -1
+round gold frame
+  rotate: false
+  xy: 2, 201
+  size: 100, 98
+  orig: 105, 104
+  offset: 2, 4
+  index: -1
+round purple background
+  rotate: true
+  xy: 104, 106
+  size: 93, 82
+  orig: 97, 86
+  offset: 2, 2
+  index: -1
+white bottom
+  rotate: false
+  xy: 104, 201
+  size: 84, 98
+  orig: 89, 131
+  offset: 1, 33
+  index: -1

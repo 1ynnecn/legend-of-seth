@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dialog_setting_language_4_on",
+    "texture": "3c2c476c-ff0d-4c48-8c78-9fe406de8e34",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      99,
+      98
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      99,
+      99
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

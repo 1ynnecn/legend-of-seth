@@ -1,0 +1,986 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "skeleton",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "Ji5BgwJLtuNYpqZKekrk/dfLazU",
+      "spine": "3.8.75",
+      "x": -288.85,
+      "y": -142,
+      "width": 540.64,
+      "height": 356.28,
+      "images": "./images/",
+      "audio": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bigwin_effect_keyfram_big",
+        "parent": "root"
+      },
+      {
+        "name": "font",
+        "parent": "root"
+      },
+      {
+        "name": "bigwin_B",
+        "parent": "font",
+        "x": -55.06,
+        "y": 50.85
+      },
+      {
+        "name": "bigwin_I",
+        "parent": "font",
+        "x": -2.72,
+        "y": 54.63
+      },
+      {
+        "name": "bigwin_G",
+        "parent": "font",
+        "x": 57.57,
+        "y": 52.84
+      },
+      {
+        "name": "bigwin_win_W",
+        "parent": "font",
+        "x": -50.44,
+        "y": -54.67
+      },
+      {
+        "name": "bigwin_win_N",
+        "parent": "font",
+        "x": 59.52,
+        "y": -53.25
+      },
+      {
+        "name": "bigwin_win_I",
+        "parent": "font",
+        "x": 7.73,
+        "y": -54.48
+      },
+      {
+        "name": "bigwin_effect_2",
+        "parent": "root",
+        "x": 0.27,
+        "y": 37.04
+      },
+      {
+        "name": "bigwin_effect_keyfram_win",
+        "parent": "root"
+      },
+      {
+        "name": "bigwin_effect_3",
+        "parent": "root",
+        "x": 0.27,
+        "y": 37.04
+      },
+      {
+        "name": "bigwin_effect_4",
+        "parent": "root",
+        "x": 1.88,
+        "y": 49.05
+      },
+      {
+        "name": "win_light",
+        "parent": "root",
+        "x": 88.03,
+        "y": 85.29
+      },
+      {
+        "name": "win_light2",
+        "parent": "root",
+        "x": -90.61,
+        "y": -18.87
+      }
+    ],
+    "slots": [
+      {
+        "name": "bigwin_effect_1",
+        "bone": "root",
+        "attachment": "bigwin_effect_1"
+      },
+      {
+        "name": "bigwin_effect_2",
+        "bone": "bigwin_effect_2",
+        "attachment": "bigwin_effect_2"
+      },
+      {
+        "name": "bigwin_effect_4",
+        "bone": "bigwin_effect_3",
+        "attachment": "bigwin_effect_2"
+      },
+      {
+        "name": "bigwin_effect_3",
+        "bone": "bigwin_effect_4",
+        "attachment": "bigwin_effect_3"
+      },
+      {
+        "name": "bigwin_B",
+        "bone": "bigwin_B",
+        "attachment": "bigwin_B"
+      },
+      {
+        "name": "bigwin_G",
+        "bone": "bigwin_G",
+        "attachment": "bigwin_G"
+      },
+      {
+        "name": "bigwin_I",
+        "bone": "bigwin_I",
+        "attachment": "bigwin_I"
+      },
+      {
+        "name": "bigwin_win_W",
+        "bone": "bigwin_win_W",
+        "attachment": "win_W"
+      },
+      {
+        "name": "bigwin_win_I",
+        "bone": "bigwin_win_I",
+        "attachment": "win_I"
+      },
+      {
+        "name": "bigwin_win_N",
+        "bone": "bigwin_win_N",
+        "attachment": "win_N"
+      },
+      {
+        "name": "bigwin_effect_keyfram_big",
+        "bone": "bigwin_effect_keyfram_big",
+        "attachment": "bigwin_effect_keyframe/bigwin_effect_keyframe0000",
+        "blend": "additive"
+      },
+      {
+        "name": "bigwin_effect_keyfram_win",
+        "bone": "bigwin_effect_keyfram_win",
+        "attachment": "bigwin_effect_keyframe/bigwin_effect_keyframe0028",
+        "blend": "additive"
+      },
+      {
+        "name": "win_light",
+        "bone": "win_light",
+        "attachment": "win_light"
+      },
+      {
+        "name": "win_light2",
+        "bone": "win_light2",
+        "attachment": "win_light"
+      }
+    ],
+    "skins": [
+      {
+        "name": "default",
+        "attachments": {
+          "bigwin_win_I": {
+            "win_I": {
+              "x": 3.4,
+              "y": -3.48,
+              "width": 45,
+              "height": 102
+            }
+          },
+          "bigwin_effect_1": {
+            "bigwin_effect_1": {
+              "x": 3.58,
+              "y": -54.68,
+              "scaleX": 0.5324,
+              "scaleY": 0.5324,
+              "width": 888,
+              "height": 153
+            }
+          },
+          "bigwin_effect_2": {
+            "bigwin_effect_2": {
+              "x": -18.8,
+              "y": 13.42,
+              "scaleX": 0.6514,
+              "scaleY": 0.6514,
+              "width": 830,
+              "height": 503
+            }
+          },
+          "bigwin_effect_3": {
+            "bigwin_effect_3": {
+              "x": -1.38,
+              "y": 20.54,
+              "width": 409,
+              "height": 285
+            }
+          },
+          "bigwin_effect_4": {
+            "bigwin_effect_2": {
+              "x": -18.8,
+              "y": 13.42,
+              "scaleX": 0.6514,
+              "scaleY": 0.6514,
+              "width": 830,
+              "height": 503
+            }
+          },
+          "bigwin_win_W": {
+            "win_W": {
+              "x": -0.76,
+              "y": 3.42,
+              "width": 103,
+              "height": 115
+            }
+          },
+          "bigwin_effect_keyfram_win": {
+            "bigwin_effect_keyframe/bigwin_effect_keyframe0021": {
+              "width": 326,
+              "height": 284
+            },
+            "bigwin_effect_keyframe/bigwin_effect_keyframe0022": {
+              "width": 326,
+              "height": 284
+            },
+            "bigwin_effect_keyframe/bigwin_effect_keyframe0023": {
+              "width": 326,
+              "height": 284
+            },
+            "bigwin_effect_keyframe/bigwin_effect_keyframe0024": {
+              "width": 326,
+              "height": 284
+            },
+            "bigwin_effect_keyframe/bigwin_effect_keyframe0025": {
+              "width": 326,
+              "height": 284
+            },
+            "bigwin_effect_keyframe/bigwin_effect_keyframe0026": {
+              "width": 326,
+              "height": 284
+            },
+            "bigwin_effect_keyframe/bigwin_effect_keyframe0027": {
+              "width": 326,
+              "height": 284
+            },
+            "bigwin_effect_keyframe/bigwin_effect_keyframe0028": {
+              "width": 326,
+              "height": 284
+            },
+            "bigwin_effect_keyframe/bigwin_effect_keyframe0029": {
+              "width": 326,
+              "height": 284
+            },
+            "bigwin_effect_keyframe/bigwin_effect_keyframe0030": {
+              "width": 326,
+              "height": 284
+            },
+            "bigwin_effect_keyframe/bigwin_effect_keyframe0031": {
+              "width": 326,
+              "height": 284
+            },
+            "bigwin_effect_keyframe/bigwin_effect_keyframe0032": {
+              "width": 326,
+              "height": 284
+            },
+            "bigwin_effect_keyframe/bigwin_effect_keyframe0033": {
+              "width": 326,
+              "height": 284
+            },
+            "bigwin_effect_keyframe/bigwin_effect_keyframe0034": {
+              "width": 326,
+              "height": 284
+            },
+            "bigwin_effect_keyframe/bigwin_effect_keyframe0035": {
+              "width": 326,
+              "height": 284
+            },
+            "bigwin_effect_keyframe/bigwin_effect_keyframe0036": {
+              "width": 326,
+              "height": 284
+            },
+            "bigwin_effect_keyframe/bigwin_effect_keyframe0037": {
+              "width": 326,
+              "height": 284
+            },
+            "bigwin_effect_keyframe/bigwin_effect_keyframe0038": {
+              "width": 326,
+              "height": 284
+            }
+          },
+          "bigwin_B": {
+            "bigwin_B": {
+              "x": 2.38,
+              "y": -3.62,
+              "width": 84,
+              "height": 125
+            }
+          },
+          "win_light2": {
+            "win_light": {
+              "x": -2.12,
+              "y": 1.51,
+              "width": 87,
+              "height": 74
+            }
+          },
+          "bigwin_G": {
+            "bigwin_G": {
+              "x": -3.21,
+              "y": -3.09,
+              "width": 85,
+              "height": 131
+            }
+          },
+          "bigwin_I": {
+            "bigwin_I": {
+              "x": 4.1,
+              "y": -1.4,
+              "width": 60,
+              "height": 120
+            }
+          },
+          "bigwin_effect_keyfram_big": {
+            "bigwin_effect_keyframe/bigwin_effect_keyframe0000": {
+              "width": 326,
+              "height": 284
+            },
+            "bigwin_effect_keyframe/bigwin_effect_keyframe0001": {
+              "width": 326,
+              "height": 284
+            },
+            "bigwin_effect_keyframe/bigwin_effect_keyframe0002": {
+              "width": 326,
+              "height": 284
+            },
+            "bigwin_effect_keyframe/bigwin_effect_keyframe0003": {
+              "width": 326,
+              "height": 284
+            },
+            "bigwin_effect_keyframe/bigwin_effect_keyframe0004": {
+              "width": 326,
+              "height": 284
+            },
+            "bigwin_effect_keyframe/bigwin_effect_keyframe0005": {
+              "width": 326,
+              "height": 284
+            },
+            "bigwin_effect_keyframe/bigwin_effect_keyframe0006": {
+              "width": 326,
+              "height": 284
+            },
+            "bigwin_effect_keyframe/bigwin_effect_keyframe0007": {
+              "width": 326,
+              "height": 284
+            },
+            "bigwin_effect_keyframe/bigwin_effect_keyframe0008": {
+              "width": 326,
+              "height": 284
+            },
+            "bigwin_effect_keyframe/bigwin_effect_keyframe0009": {
+              "width": 326,
+              "height": 284
+            },
+            "bigwin_effect_keyframe/bigwin_effect_keyframe0010": {
+              "width": 326,
+              "height": 284
+            },
+            "bigwin_effect_keyframe/bigwin_effect_keyframe0011": {
+              "width": 326,
+              "height": 284
+            },
+            "bigwin_effect_keyframe/bigwin_effect_keyframe0012": {
+              "width": 326,
+              "height": 284
+            },
+            "bigwin_effect_keyframe/bigwin_effect_keyframe0013": {
+              "width": 326,
+              "height": 284
+            },
+            "bigwin_effect_keyframe/bigwin_effect_keyframe0014": {
+              "width": 326,
+              "height": 284
+            },
+            "bigwin_effect_keyframe/bigwin_effect_keyframe0015": {
+              "width": 326,
+              "height": 284
+            },
+            "bigwin_effect_keyframe/bigwin_effect_keyframe0016": {
+              "width": 326,
+              "height": 284
+            },
+            "bigwin_effect_keyframe/bigwin_effect_keyframe0017": {
+              "width": 326,
+              "height": 284
+            },
+            "bigwin_effect_keyframe/bigwin_effect_keyframe0018": {
+              "width": 326,
+              "height": 284
+            },
+            "bigwin_effect_keyframe/bigwin_effect_keyframe0019": {
+              "width": 326,
+              "height": 284
+            },
+            "bigwin_effect_keyframe/bigwin_effect_keyframe0020": {
+              "width": 326,
+              "height": 284
+            }
+          },
+          "bigwin_win_N": {
+            "win_N": {
+              "x": 3.06,
+              "y": -6.1,
+              "width": 79,
+              "height": 105
+            }
+          },
+          "win_light": {
+            "win_light": {
+              "x": -2.12,
+              "y": 1.51,
+              "width": 87,
+              "height": 74
+            }
+          }
+        }
+      }
+    ],
+    "animations": {
+      "bigwin": {
+        "slots": {
+          "win_light": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.8333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 1.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.6667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "win_light2": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.8333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 1.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.6667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "bigwin_effect_3": {
+            "color": [
+              {
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.8333,
+                "color": "ffffff5f"
+              },
+              {
+                "time": 1.6667,
+                "color": "ffffffff"
+              }
+            ]
+          },
+          "bigwin_effect_keyfram_big": {
+            "attachment": [
+              {
+                "name": null
+              },
+              {
+                "time": 0.9667,
+                "name": "bigwin_effect_keyframe/bigwin_effect_keyframe0000"
+              },
+              {
+                "time": 1,
+                "name": "bigwin_effect_keyframe/bigwin_effect_keyframe0001"
+              },
+              {
+                "time": 1.0333,
+                "name": "bigwin_effect_keyframe/bigwin_effect_keyframe0002"
+              },
+              {
+                "time": 1.0667,
+                "name": "bigwin_effect_keyframe/bigwin_effect_keyframe0003"
+              },
+              {
+                "time": 1.1,
+                "name": "bigwin_effect_keyframe/bigwin_effect_keyframe0004"
+              },
+              {
+                "time": 1.1333,
+                "name": "bigwin_effect_keyframe/bigwin_effect_keyframe0005"
+              },
+              {
+                "time": 1.1667,
+                "name": "bigwin_effect_keyframe/bigwin_effect_keyframe0006"
+              },
+              {
+                "time": 1.2,
+                "name": "bigwin_effect_keyframe/bigwin_effect_keyframe0007"
+              },
+              {
+                "time": 1.2333,
+                "name": "bigwin_effect_keyframe/bigwin_effect_keyframe0008"
+              },
+              {
+                "time": 1.2667,
+                "name": "bigwin_effect_keyframe/bigwin_effect_keyframe0009"
+              },
+              {
+                "time": 1.3,
+                "name": "bigwin_effect_keyframe/bigwin_effect_keyframe0010"
+              },
+              {
+                "time": 1.3333,
+                "name": "bigwin_effect_keyframe/bigwin_effect_keyframe0011"
+              },
+              {
+                "time": 1.3667,
+                "name": "bigwin_effect_keyframe/bigwin_effect_keyframe0012"
+              },
+              {
+                "time": 1.4,
+                "name": "bigwin_effect_keyframe/bigwin_effect_keyframe0013"
+              },
+              {
+                "time": 1.4333,
+                "name": "bigwin_effect_keyframe/bigwin_effect_keyframe0014"
+              },
+              {
+                "time": 1.4667,
+                "name": "bigwin_effect_keyframe/bigwin_effect_keyframe0015"
+              },
+              {
+                "time": 1.5,
+                "name": "bigwin_effect_keyframe/bigwin_effect_keyframe0016"
+              },
+              {
+                "time": 1.5333,
+                "name": "bigwin_effect_keyframe/bigwin_effect_keyframe0017"
+              },
+              {
+                "time": 1.5667,
+                "name": "bigwin_effect_keyframe/bigwin_effect_keyframe0018"
+              },
+              {
+                "time": 1.6,
+                "name": "bigwin_effect_keyframe/bigwin_effect_keyframe0019"
+              },
+              {
+                "time": 1.6333,
+                "name": "bigwin_effect_keyframe/bigwin_effect_keyframe0020"
+              }
+            ]
+          },
+          "bigwin_effect_4": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.5667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.7667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.1,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "bigwin_effect_keyfram_win": {
+            "attachment": [
+              {
+                "name": null
+              },
+              {
+                "time": 1.0667,
+                "name": "bigwin_effect_keyframe/bigwin_effect_keyframe0021"
+              },
+              {
+                "time": 1.1,
+                "name": "bigwin_effect_keyframe/bigwin_effect_keyframe0022"
+              },
+              {
+                "time": 1.1333,
+                "name": "bigwin_effect_keyframe/bigwin_effect_keyframe0023"
+              },
+              {
+                "time": 1.1667,
+                "name": "bigwin_effect_keyframe/bigwin_effect_keyframe0024"
+              },
+              {
+                "time": 1.2,
+                "name": "bigwin_effect_keyframe/bigwin_effect_keyframe0025"
+              },
+              {
+                "time": 1.2333,
+                "name": "bigwin_effect_keyframe/bigwin_effect_keyframe0026"
+              },
+              {
+                "time": 1.2667,
+                "name": "bigwin_effect_keyframe/bigwin_effect_keyframe0027"
+              },
+              {
+                "time": 1.3,
+                "name": "bigwin_effect_keyframe/bigwin_effect_keyframe0028"
+              },
+              {
+                "time": 1.3333,
+                "name": "bigwin_effect_keyframe/bigwin_effect_keyframe0029"
+              },
+              {
+                "time": 1.3667,
+                "name": "bigwin_effect_keyframe/bigwin_effect_keyframe0030"
+              },
+              {
+                "time": 1.4,
+                "name": "bigwin_effect_keyframe/bigwin_effect_keyframe0031"
+              },
+              {
+                "time": 1.4333,
+                "name": "bigwin_effect_keyframe/bigwin_effect_keyframe0032"
+              },
+              {
+                "time": 1.4667,
+                "name": "bigwin_effect_keyframe/bigwin_effect_keyframe0033"
+              },
+              {
+                "time": 1.5,
+                "name": "bigwin_effect_keyframe/bigwin_effect_keyframe0034"
+              },
+              {
+                "time": 1.5333,
+                "name": "bigwin_effect_keyframe/bigwin_effect_keyframe0035"
+              },
+              {
+                "time": 1.5667,
+                "name": "bigwin_effect_keyframe/bigwin_effect_keyframe0036"
+              },
+              {
+                "time": 1.6,
+                "name": "bigwin_effect_keyframe/bigwin_effect_keyframe0037"
+              },
+              {
+                "time": 1.6333,
+                "name": "bigwin_effect_keyframe/bigwin_effect_keyframe0038"
+              }
+            ]
+          },
+          "bigwin_effect_2": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.2,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.5667,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 1.1667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 1.3,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.6667,
+                "color": "ffffff00"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bigwin_B": {
+            "translate": [
+              {},
+              {
+                "time": 0.1667,
+                "y": -7.24
+              },
+              {
+                "time": 0.5,
+                "y": 7.64
+              },
+              {
+                "time": 0.6667
+              }
+            ]
+          },
+          "bigwin_I": {
+            "translate": [
+              {
+                "time": 0.0667
+              },
+              {
+                "time": 0.2333,
+                "y": -7.24
+              },
+              {
+                "time": 0.5667,
+                "y": 7.64
+              },
+              {
+                "time": 0.7333
+              }
+            ]
+          },
+          "bigwin_G": {
+            "translate": [
+              {
+                "time": 0.1333
+              },
+              {
+                "time": 0.3,
+                "y": -7.24
+              },
+              {
+                "time": 0.6333,
+                "y": 7.64
+              },
+              {
+                "time": 0.8
+              }
+            ]
+          },
+          "bigwin_win_W": {
+            "translate": [
+              {
+                "time": 0.1
+              },
+              {
+                "time": 0.2667,
+                "y": -7.24
+              },
+              {
+                "time": 0.6,
+                "y": 7.64
+              },
+              {
+                "time": 0.7667
+              }
+            ]
+          },
+          "bigwin_win_I": {
+            "translate": [
+              {
+                "time": 0.1667
+              },
+              {
+                "time": 0.3333,
+                "y": -7.24
+              },
+              {
+                "time": 0.6667,
+                "y": 7.64
+              },
+              {
+                "time": 0.8333
+              }
+            ]
+          },
+          "bigwin_win_N": {
+            "translate": [
+              {
+                "time": 0.2333
+              },
+              {
+                "time": 0.4,
+                "y": -7.24
+              },
+              {
+                "time": 0.7333,
+                "y": 7.64
+              },
+              {
+                "time": 0.9
+              }
+            ]
+          },
+          "bigwin_effect_2": {
+            "scale": [
+              {},
+              {
+                "time": 0.3333,
+                "x": 1.109,
+                "y": 1.154
+              },
+              {
+                "time": 0.5667,
+                "x": 1.263,
+                "y": 1.263,
+                "curve": "stepped"
+              },
+              {
+                "time": 1.1
+              },
+              {
+                "time": 1.4333,
+                "x": 1.109,
+                "y": 1.154
+              },
+              {
+                "time": 1.6667,
+                "x": 1.263,
+                "y": 1.263
+              }
+            ]
+          },
+          "bigwin_effect_3": {
+            "scale": [
+              {
+                "time": 0.5667
+              },
+              {
+                "time": 0.9,
+                "x": 1.109,
+                "y": 1.154
+              },
+              {
+                "time": 1.1,
+                "x": 1.263,
+                "y": 1.263
+              }
+            ]
+          },
+          "bigwin_effect_4": {
+            "scale": [
+              {},
+              {
+                "time": 0.6667,
+                "x": 1.285,
+                "y": 1.285
+              },
+              {
+                "time": 1.6667
+              }
+            ]
+          },
+          "win_light": {
+            "rotate": [
+              {
+                "time": 0.8333
+              },
+              {
+                "time": 1,
+                "angle": 90,
+                "curve": 0.107,
+                "c2": 0.38,
+                "c3": 0.75
+              },
+              {
+                "time": 1.6667,
+                "angle": 180
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.8333,
+                "x": 0.515,
+                "y": 0.515
+              },
+              {
+                "time": 1.1667
+              },
+              {
+                "time": 1.3333,
+                "x": 0.819,
+                "y": 0.819
+              },
+              {
+                "time": 1.6667,
+                "x": 0.515,
+                "y": 0.515
+              }
+            ]
+          },
+          "win_light2": {
+            "rotate": [
+              {
+                "time": 0.8333
+              },
+              {
+                "time": 1,
+                "angle": 90,
+                "curve": 0.107,
+                "c2": 0.38,
+                "c3": 0.75
+              },
+              {
+                "time": 1.6667,
+                "angle": 180
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.8333,
+                "x": 0.515,
+                "y": 0.515
+              },
+              {
+                "time": 1.1667,
+                "x": 1.171,
+                "y": 1.171
+              },
+              {
+                "time": 1.3333,
+                "x": 0.92,
+                "y": 0.92
+              },
+              {
+                "time": 1.6667,
+                "x": 0.515,
+                "y": 0.515
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nskeleton.png\nsize: 2752,509\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nbigwin_B\n  rotate: false\n  xy: 1904, 14\n  size: 83, 125\n  orig: 84, 125\n  offset: 1, 0\n  index: -1\nbigwin_G\n  rotate: true\n  xy: 2601, 190\n  size: 84, 131\n  orig: 85, 131\n  offset: 0, 0\n  index: -1\nbigwin_I\n  rotate: true\n  xy: 992, 14\n  size: 56, 120\n  orig: 60, 120\n  offset: 3, 0\n  index: -1\nbigwin_effect_1\n  rotate: false\n  xy: 829, 358\n  size: 888, 149\n  orig: 888, 153\n  offset: 0, 0\n  index: -1\nbigwin_effect_2\n  rotate: false\n  xy: 2, 4\n  size: 825, 503\n  orig: 830, 503\n  offset: 0, 0\n  index: -1\nbigwin_effect_3\n  rotate: false\n  xy: 829, 72\n  size: 407, 284\n  orig: 409, 285\n  offset: 1, 0\n  index: -1\nbigwin_effect_keyframe/bigwin_effect_keyframe0000\n  rotate: true\n  xy: 1700, 2\n  size: 106, 101\n  orig: 326, 284\n  offset: 73, 152\n  index: -1\nbigwin_effect_keyframe/bigwin_effect_keyframe0001\n  rotate: false\n  xy: 1599, 226\n  size: 152, 130\n  orig: 326, 284\n  offset: 74, 129\n  index: -1\nbigwin_effect_keyframe/bigwin_effect_keyframe0002\n  rotate: false\n  xy: 1426, 220\n  size: 171, 136\n  orig: 326, 284\n  offset: 73, 117\n  index: -1\nbigwin_effect_keyframe/bigwin_effect_keyframe0003\n  rotate: false\n  xy: 1794, 141\n  size: 128, 114\n  orig: 326, 284\n  offset: 72, 139\n  index: -1\nbigwin_effect_keyframe/bigwin_effect_keyframe0004\n  rotate: false\n  xy: 2095, 383\n  size: 182, 124\n  orig: 326, 284\n  offset: 73, 129\n  index: -1\nbigwin_effect_keyframe/bigwin_effect_keyframe0005\n  rotate: false\n  xy: 1719, 382\n  size: 186, 125\n  orig: 326, 284\n  offset: 74, 127\n  index: -1\nbigwin_effect_keyframe/bigwin_effect_keyframe0006\n  rotate: false\n  xy: 1238, 231\n  size: 186, 125\n  orig: 326, 284\n  offset: 73, 127\n  index: -1\nbigwin_effect_keyframe/bigwin_effect_keyframe0007\n  rotate: false\n  xy: 1238, 105\n  size: 186, 124\n  orig: 326, 284\n  offset: 73, 129\n  index: -1\nbigwin_effect_keyframe/bigwin_effect_keyframe0008\n  rotate: false\n  xy: 1907, 382\n  size: 186, 125\n  orig: 326, 284\n  offset: 76, 127\n  index: -1\nbigwin_effect_keyframe/bigwin_effect_keyframe0009\n  rotate: false\n  xy: 2468, 385\n  size: 181, 122\n  orig: 326, 284\n  offset: 78, 129\n  index: -1\nbigwin_effect_keyframe/bigwin_effect_keyframe0010\n  rotate: false\n  xy: 1753, 257\n  size: 180, 123\n  orig: 326, 284\n  offset: 80, 126\n  index: -1\nbigwin_effect_keyframe/bigwin_effect_keyframe0011\n  rotate: false\n  xy: 2279, 390\n  size: 187, 117\n  orig: 326, 284\n  offset: 81, 129\n  index: -1\nbigwin_effect_keyframe/bigwin_effect_keyframe0012\n  rotate: false\n  xy: 1935, 264\n  size: 180, 116\n  orig: 326, 284\n  offset: 82, 129\n  index: -1\nbigwin_effect_keyframe/bigwin_effect_keyframe0013\n  rotate: false\n  xy: 2117, 265\n  size: 179, 116\n  orig: 326, 284\n  offset: 81, 129\n  index: -1\nbigwin_effect_keyframe/bigwin_effect_keyframe0014\n  rotate: false\n  xy: 1612, 110\n  size: 180, 114\n  orig: 326, 284\n  offset: 84, 129\n  index: -1\nbigwin_effect_keyframe/bigwin_effect_keyframe0015\n  rotate: false\n  xy: 1434, 2\n  size: 149, 112\n  orig: 326, 284\n  offset: 112, 128\n  index: -1\nbigwin_effect_keyframe/bigwin_effect_keyframe0016\n  rotate: true\n  xy: 1585, 2\n  size: 106, 113\n  orig: 326, 284\n  offset: 153, 127\n  index: -1\nbigwin_effect_keyframe/bigwin_effect_keyframe0017\n  rotate: false\n  xy: 2655, 276\n  size: 95, 107\n  orig: 326, 284\n  offset: 164, 129\n  index: -1\nbigwin_effect_keyframe/bigwin_effect_keyframe0018\n  rotate: true\n  xy: 829, 2\n  size: 68, 98\n  orig: 326, 284\n  offset: 191, 129\n  index: -1\nbigwin_effect_keyframe/bigwin_effect_keyframe0019\n  rotate: true\n  xy: 2094, 3\n  size: 50, 70\n  orig: 326, 284\n  offset: 209, 129\n  index: -1\nbigwin_effect_keyframe/bigwin_effect_keyframe0020\n  rotate: true\n  xy: 1989, 3\n  size: 41, 70\n  orig: 326, 284\n  offset: 218, 127\n  index: -1\nbigwin_effect_keyframe/bigwin_effect_keyframe0021\n  rotate: false\n  xy: 2592, 2\n  size: 79, 85\n  orig: 326, 284\n  offset: 67, 44\n  index: -1\nbigwin_effect_keyframe/bigwin_effect_keyframe0022\n  rotate: true\n  xy: 2681, 108\n  size: 80, 69\n  orig: 326, 284\n  offset: 59, 71\n  index: -1\nbigwin_effect_keyframe/bigwin_effect_keyframe0023\n  rotate: false\n  xy: 2274, 51\n  size: 95, 84\n  orig: 326, 284\n  offset: 59, 51\n  index: -1\nbigwin_effect_keyframe/bigwin_effect_keyframe0024\n  rotate: true\n  xy: 2651, 385\n  size: 122, 97\n  orig: 326, 284\n  offset: 61, 38\n  index: -1\nbigwin_effect_keyframe/bigwin_effect_keyframe0025\n  rotate: true\n  xy: 2311, 137\n  size: 150, 99\n  orig: 326, 284\n  offset: 61, 36\n  index: -1\nbigwin_effect_keyframe/bigwin_effect_keyframe0026\n  rotate: false\n  xy: 1935, 163\n  size: 181, 99\n  orig: 326, 284\n  offset: 59, 37\n  index: -1\nbigwin_effect_keyframe/bigwin_effect_keyframe0027\n  rotate: false\n  xy: 1238, 2\n  size: 194, 101\n  orig: 326, 284\n  offset: 66, 32\n  index: -1\nbigwin_effect_keyframe/bigwin_effect_keyframe0028\n  rotate: false\n  xy: 2458, 284\n  size: 195, 99\n  orig: 326, 284\n  offset: 67, 36\n  index: -1\nbigwin_effect_keyframe/bigwin_effect_keyframe0029\n  rotate: false\n  xy: 2118, 164\n  size: 191, 99\n  orig: 326, 284\n  offset: 73, 34\n  index: -1\nbigwin_effect_keyframe/bigwin_effect_keyframe0030\n  rotate: false\n  xy: 2412, 183\n  size: 187, 99\n  orig: 326, 284\n  offset: 74, 34\n  index: -1\nbigwin_effect_keyframe/bigwin_effect_keyframe0031\n  rotate: false\n  xy: 1426, 116\n  size: 184, 102\n  orig: 326, 284\n  offset: 82, 31\n  index: -1\nbigwin_effect_keyframe/bigwin_effect_keyframe0032\n  rotate: false\n  xy: 2412, 82\n  size: 178, 99\n  orig: 326, 284\n  offset: 86, 34\n  index: -1\nbigwin_effect_keyframe/bigwin_effect_keyframe0033\n  rotate: false\n  xy: 2298, 289\n  size: 158, 99\n  orig: 326, 284\n  offset: 106, 36\n  index: -1\nbigwin_effect_keyframe/bigwin_effect_keyframe0034\n  rotate: true\n  xy: 1803, 5\n  size: 134, 99\n  orig: 326, 284\n  offset: 130, 34\n  index: -1\nbigwin_effect_keyframe/bigwin_effect_keyframe0035\n  rotate: true\n  xy: 2094, 55\n  size: 106, 97\n  orig: 326, 284\n  offset: 156, 44\n  index: -1\nbigwin_effect_keyframe/bigwin_effect_keyframe0036\n  rotate: false\n  xy: 2592, 89\n  size: 87, 92\n  orig: 326, 284\n  offset: 177, 41\n  index: -1\nbigwin_effect_keyframe/bigwin_effect_keyframe0037\n  rotate: false\n  xy: 929, 2\n  size: 61, 68\n  orig: 326, 284\n  offset: 201, 41\n  index: -1\nbigwin_effect_keyframe/bigwin_effect_keyframe0038\n  rotate: false\n  xy: 2371, 92\n  size: 32, 43\n  orig: 326, 284\n  offset: 230, 46\n  index: -1\nwin_I\n  rotate: true\n  xy: 1114, 26\n  size: 44, 102\n  orig: 45, 102\n  offset: 1, 0\n  index: -1\nwin_N\n  rotate: false\n  xy: 2193, 57\n  size: 79, 105\n  orig: 79, 105\n  offset: 0, 0\n  index: -1\nwin_W\n  rotate: false\n  xy: 1989, 46\n  size: 103, 115\n  orig: 103, 115\n  offset: 0, 0\n  index: -1\nwin_light\n  rotate: true\n  xy: 2673, 2\n  size: 85, 74\n  orig: 87, 74\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "ccdbe66e-35f7-46b1-978f-5a946a667cde"
+    }
+  ],
+  "textureNames": [
+    "skeleton.png"
+  ],
+  "scale": 1
+}

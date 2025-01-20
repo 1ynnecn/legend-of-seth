@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "a79e601c-9e94-4517-acf5-43fd8baa05d3",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 231,
+  "height": 231,
+  "platformSettings": {},
+  "subMetas": {
+    "taskbar_btn_skip_off": {
+      "ver": "1.0.6",
+      "uuid": "f5bc1e57-6e65-4222-a2e4-d663c2d447d5",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "a79e601c-9e94-4517-acf5-43fd8baa05d3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 231,
+      "height": 231,
+      "rawWidth": 231,
+      "rawHeight": 231,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

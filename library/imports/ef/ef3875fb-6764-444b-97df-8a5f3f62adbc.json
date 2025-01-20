@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "font_lottery_num_0",
+    "texture": "b8237345-84ef-49c5-8193-06f5914d15f2",
+    "atlas": "",
+    "rect": [
+      21,
+      29,
+      865,
+      909
+    ],
+    "offset": [
+      -46.5,
+      16.5
+    ],
+    "originalSize": [
+      1000,
+      1000
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

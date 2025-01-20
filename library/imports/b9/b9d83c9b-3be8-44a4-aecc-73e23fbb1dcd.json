@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "taskbar_btn_plus_disabled",
+    "texture": "4ea0aeae-1e48-4a8e-9a77-5941161e79f1",
+    "atlas": "",
+    "rect": [
+      25,
+      25,
+      181,
+      180
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      231,
+      231
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

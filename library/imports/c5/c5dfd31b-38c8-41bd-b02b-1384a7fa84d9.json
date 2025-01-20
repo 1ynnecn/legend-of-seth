@@ -1,0 +1,803 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "skeleton",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "HXVlHaiOsCQeXCLnbavTLpmzJqA",
+      "spine": "3.8.75",
+      "x": -73.03,
+      "y": -65,
+      "width": 135,
+      "height": 130,
+      "images": "./images/",
+      "audio": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "auto-A",
+        "parent": "root",
+        "scaleX": 0.7354,
+        "scaleY": 0.7354
+      },
+      {
+        "name": "spin",
+        "parent": "root"
+      },
+      {
+        "name": "effect",
+        "parent": "root"
+      },
+      {
+        "name": "spin_light",
+        "parent": "root"
+      },
+      {
+        "name": "spin_light-A",
+        "parent": "spin_light",
+        "x": 23.06,
+        "color": "950affff"
+      },
+      {
+        "name": "spin_efffect_out_ring",
+        "parent": "effect"
+      },
+      {
+        "name": "spin_efffect_in_ring-B",
+        "parent": "effect"
+      },
+      {
+        "name": "spin_efffect_in_ring-A",
+        "parent": "effect"
+      },
+      {
+        "name": "spin_flash-A",
+        "parent": "effect"
+      },
+      {
+        "name": "spin_flash-B",
+        "parent": "effect"
+      },
+      {
+        "name": "spin_light2",
+        "parent": "root"
+      },
+      {
+        "name": "spin_light-A2",
+        "parent": "spin_light2",
+        "x": 23.06,
+        "color": "950affff"
+      },
+      {
+        "name": "spin_light3",
+        "parent": "root"
+      },
+      {
+        "name": "spin_light-A3",
+        "parent": "spin_light3",
+        "x": 23.06,
+        "color": "950affff"
+      },
+      {
+        "name": "spin_light4",
+        "parent": "root"
+      },
+      {
+        "name": "spin_light-A4",
+        "parent": "spin_light4",
+        "x": 23.06,
+        "color": "950affff"
+      },
+      {
+        "name": "spin_light5",
+        "parent": "root"
+      },
+      {
+        "name": "spin_light-A5",
+        "parent": "spin_light5",
+        "x": 23.06,
+        "color": "950affff"
+      },
+      {
+        "name": "spin_light6",
+        "parent": "root"
+      },
+      {
+        "name": "spin_light-A6",
+        "parent": "spin_light6",
+        "x": 23.06,
+        "color": "950affff"
+      }
+    ],
+    "slots": [
+      {
+        "name": "spin_efffect_in_ring-A",
+        "bone": "spin_efffect_in_ring-A",
+        "attachment": "spin_efffect_in_ring-A"
+      },
+      {
+        "name": "spin_efffect_in_ring-B",
+        "bone": "spin_efffect_in_ring-B",
+        "attachment": "spin_efffect_in_ring-B"
+      },
+      {
+        "name": "spin_flash-A",
+        "bone": "spin_flash-A",
+        "attachment": "spin_flash-A"
+      },
+      {
+        "name": "spin_flash-B",
+        "bone": "spin_flash-B",
+        "attachment": "spin_flash-B"
+      },
+      {
+        "name": "spin_efffect_out_ring",
+        "bone": "spin_efffect_out_ring",
+        "attachment": "spin_efffect_out_ring"
+      },
+      {
+        "name": "spin_light-A",
+        "bone": "spin_light-A",
+        "attachment": "spin_light-A"
+      },
+      {
+        "name": "spin_light-A2",
+        "bone": "spin_light-A2",
+        "attachment": "spin_light-A"
+      },
+      {
+        "name": "spin_light-A3",
+        "bone": "spin_light-A3",
+        "attachment": "spin_light-A"
+      },
+      {
+        "name": "spin_light-A4",
+        "bone": "spin_light-A4",
+        "attachment": "spin_light-A"
+      },
+      {
+        "name": "spin_light-A5",
+        "bone": "spin_light-A5",
+        "attachment": "spin_light-A"
+      },
+      {
+        "name": "spin_light-A6",
+        "bone": "spin_light-A6",
+        "attachment": "spin_light-A"
+      },
+      {
+        "name": "spin",
+        "bone": "spin",
+        "attachment": "spin"
+      },
+      {
+        "name": "auto-A",
+        "bone": "auto-A",
+        "attachment": "auto-A"
+      }
+    ],
+    "skins": [
+      {
+        "name": "default",
+        "attachments": {
+          "spin": {
+            "spin": {
+              "x": -1.56,
+              "y": 2.08,
+              "width": 115,
+              "height": 117
+            },
+            "spin_disabled": {
+              "y": 1.56,
+              "width": 111,
+              "height": 114
+            },
+            "spin_push": {
+              "width": 113,
+              "height": 114
+            }
+          },
+          "spin_light-A2": {
+            "spin_light-A": {
+              "x": -2.68,
+              "y": 0.5,
+              "width": 37,
+              "height": 31
+            }
+          },
+          "spin_light-A3": {
+            "spin_light-A": {
+              "x": -2.68,
+              "y": 0.5,
+              "width": 37,
+              "height": 31
+            }
+          },
+          "spin_light-A4": {
+            "spin_light-A": {
+              "x": -2.68,
+              "y": 0.5,
+              "width": 37,
+              "height": 31
+            }
+          },
+          "spin_efffect_out_ring": {
+            "spin_efffect_out_ring": {
+              "x": 0.58,
+              "y": -0.99,
+              "scaleX": 0.594,
+              "scaleY": 0.594,
+              "width": 204,
+              "height": 197
+            }
+          },
+          "spin_light-A6": {
+            "spin_light-A": {
+              "x": -2.68,
+              "y": 0.5,
+              "width": 37,
+              "height": 31
+            }
+          },
+          "spin_light-A": {
+            "spin_light-A": {
+              "x": -2.68,
+              "y": 0.5,
+              "width": 37,
+              "height": 31
+            }
+          },
+          "spin_efffect_in_ring-A": {
+            "spin_efffect_in_ring-A": {
+              "x": -5.53,
+              "width": 135,
+              "height": 130
+            }
+          },
+          "spin_efffect_in_ring-B": {
+            "spin_efffect_in_ring-B": {
+              "width": 107,
+              "height": 105
+            }
+          },
+          "auto-A": {
+            "auto-A": {
+              "width": 116,
+              "height": 104
+            },
+            "auto-B": {
+              "width": 111,
+              "height": 100
+            },
+            "auto_disabled": {
+              "width": 116,
+              "height": 104
+            }
+          },
+          "spin_flash-A": {
+            "spin_flash-A": {
+              "width": 82,
+              "height": 82
+            }
+          },
+          "spin_flash-B": {
+            "spin_flash-B": {
+              "x": 1.1,
+              "width": 109,
+              "height": 106
+            }
+          },
+          "spin_light-A5": {
+            "spin_light-A": {
+              "x": -2.68,
+              "y": 0.5,
+              "width": 37,
+              "height": 31
+            }
+          }
+        }
+      }
+    ],
+    "animations": {
+      "disabled": {
+        "slots": {
+          "auto-A": {
+            "attachment": [
+              {
+                "name": "auto_disabled"
+              }
+            ]
+          },
+          "spin": {
+            "attachment": [
+              {
+                "name": "spin_disabled"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "auto-A": {
+            "rotate": [
+              {},
+              {
+                "time": 2.2,
+                "angle": -90
+              },
+              {
+                "time": 4.3667,
+                "angle": 180
+              },
+              {
+                "time": 6.5,
+                "angle": 90
+              },
+              {
+                "time": 8.6667
+              }
+            ],
+            "scale": [
+              {},
+              {
+                "time": 2.2,
+                "x": 0.966,
+                "y": 0.966
+              },
+              {
+                "time": 4.3667
+              },
+              {
+                "time": 6.5,
+                "x": 0.942,
+                "y": 0.942
+              },
+              {
+                "time": 8.6667
+              }
+            ]
+          }
+        }
+      },
+      "idle": {
+        "bones": {
+          "auto-A": {
+            "rotate": [
+              {},
+              {
+                "time": 1,
+                "angle": -90
+              },
+              {
+                "time": 2,
+                "angle": 180
+              },
+              {
+                "time": 2.9667,
+                "angle": 90
+              },
+              {
+                "time": 3.9667
+              }
+            ],
+            "scale": [
+              {},
+              {
+                "time": 1,
+                "x": 0.966,
+                "y": 0.966
+              },
+              {
+                "time": 2
+              },
+              {
+                "time": 2.9667,
+                "x": 0.942,
+                "y": 0.942
+              },
+              {
+                "time": 3.9667
+              }
+            ]
+          }
+        }
+      },
+      "push": {
+        "slots": {
+          "auto-A": {
+            "attachment": [
+              {
+                "name": "auto-B"
+              }
+            ]
+          },
+          "spin": {
+            "attachment": [
+              {
+                "name": "spin_push"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "auto-A": {
+            "rotate": [
+              {},
+              {
+                "time": 1,
+                "angle": -90
+              },
+              {
+                "time": 2,
+                "angle": 180
+              },
+              {
+                "time": 2.9667,
+                "angle": 90
+              },
+              {
+                "time": 3.9667
+              }
+            ],
+            "scale": [
+              {},
+              {
+                "time": 1,
+                "x": 0.966,
+                "y": 0.966
+              },
+              {
+                "time": 2
+              },
+              {
+                "time": 2.9667,
+                "x": 0.942,
+                "y": 0.942
+              },
+              {
+                "time": 3.9667
+              }
+            ]
+          }
+        }
+      },
+      "spin": {
+        "slots": {
+          "spin_light-A6": {
+            "color": [
+              {
+                "time": 0.2667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.4333,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "spin_light-A": {
+            "color": [
+              {
+                "time": 0.2667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.4333,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "spin_light-A3": {
+            "color": [
+              {
+                "time": 0.2667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.4333,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "spin_light-A2": {
+            "color": [
+              {
+                "time": 0.2667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.4333,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "spin_efffect_in_ring-A": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.7333,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "spin_light-A4": {
+            "color": [
+              {
+                "time": 0.2667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.4333,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "spin_light-A5": {
+            "color": [
+              {
+                "time": 0.2667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.4333,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "spin_flash-A": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.7333,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "spin_flash-B": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.7333,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "spin_efffect_out_ring": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.7333,
+                "color": "ffffff00"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "auto-A": {
+            "rotate": [
+              {},
+              {
+                "time": 0.2333,
+                "angle": -90
+              },
+              {
+                "time": 0.5,
+                "angle": 180
+              },
+              {
+                "time": 0.7333,
+                "angle": 90
+              },
+              {
+                "time": 1
+              }
+            ]
+          },
+          "spin_efffect_out_ring": {
+            "scale": [
+              {},
+              {
+                "time": 0.5,
+                "x": 1.744,
+                "y": 1.744
+              },
+              {
+                "time": 0.8333,
+                "x": 1.592,
+                "y": 1.592
+              }
+            ]
+          },
+          "spin_flash-B": {
+            "scale": [
+              {},
+              {
+                "time": 0.5,
+                "x": 1.206,
+                "y": 1.206
+              },
+              {
+                "time": 0.8333,
+                "x": 1.798,
+                "y": 1.798
+              }
+            ]
+          },
+          "spin_flash-A": {
+            "scale": [
+              {},
+              {
+                "time": 0.5,
+                "x": 2.441,
+                "y": 2.441
+              },
+              {
+                "time": 0.8333,
+                "x": 2.786,
+                "y": 2.786
+              }
+            ]
+          },
+          "effect": {
+            "rotate": [
+              {},
+              {
+                "time": 0.6667,
+                "angle": -90
+              },
+              {
+                "time": 1,
+                "angle": -131.79
+              }
+            ]
+          },
+          "spin_light-A": {
+            "translate": [
+              {},
+              {
+                "time": 0.4333,
+                "x": 44.06
+              }
+            ]
+          },
+          "spin_light-A2": {
+            "translate": [
+              {},
+              {
+                "time": 0.4333,
+                "x": 60.42
+              }
+            ]
+          },
+          "spin_light-A3": {
+            "translate": [
+              {},
+              {
+                "time": 0.4333,
+                "x": 41.28
+              }
+            ]
+          },
+          "spin_light-A4": {
+            "translate": [
+              {},
+              {
+                "time": 0.4333,
+                "x": 58.02
+              }
+            ]
+          },
+          "spin_light2": {
+            "rotate": [
+              {
+                "angle": -141.68
+              }
+            ]
+          },
+          "spin_light3": {
+            "rotate": [
+              {
+                "angle": 160.54
+              }
+            ]
+          },
+          "spin_light4": {
+            "rotate": [
+              {
+                "angle": 38.44
+              }
+            ]
+          },
+          "spin_light-A5": {
+            "translate": [
+              {},
+              {
+                "time": 0.4333,
+                "x": 59.76
+              }
+            ]
+          },
+          "spin_light5": {
+            "rotate": [
+              {
+                "angle": 38.44
+              },
+              {
+                "time": 0.3333,
+                "angle": -100.86
+              }
+            ]
+          },
+          "spin_light-A6": {
+            "translate": [
+              {},
+              {
+                "time": 0.4333,
+                "x": 63.28
+              }
+            ]
+          },
+          "spin_light6": {
+            "rotate": [
+              {
+                "angle": 127.06
+              }
+            ]
+          },
+          "spin_efffect_in_ring-A": {
+            "scale": [
+              {},
+              {
+                "time": 0.5,
+                "x": 1.603,
+                "y": 1.603
+              },
+              {
+                "time": 0.8333,
+                "x": 2.2,
+                "y": 2.2
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nskeleton.png\nsize: 780,224\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nauto-A\n  rotate: false\n  xy: 331, 3\n  size: 115, 104\n  orig: 116, 104\n  offset: 0, 0\n  index: -1\nauto-B\n  rotate: true\n  xy: 676, 111\n  size: 111, 100\n  orig: 111, 100\n  offset: 0, 0\n  index: -1\nauto_disabled\n  rotate: false\n  xy: 448, 5\n  size: 115, 104\n  orig: 116, 104\n  offset: 0, 0\n  index: -1\nspin\n  rotate: true\n  xy: 331, 109\n  size: 113, 112\n  orig: 115, 117\n  offset: 2, 0\n  index: -1\nspin_disabled\n  rotate: true\n  xy: 445, 111\n  size: 111, 114\n  orig: 111, 114\n  offset: 0, 0\n  index: -1\nspin_efffect_in_ring-A\n  rotate: false\n  xy: 201, 94\n  size: 128, 128\n  orig: 135, 130\n  offset: 7, 0\n  index: -1\nspin_efffect_in_ring-B\n  rotate: true\n  xy: 673, 2\n  size: 107, 105\n  orig: 107, 105\n  offset: 0, 0\n  index: -1\nspin_efffect_out_ring\n  rotate: true\n  xy: 2, 24\n  size: 198, 197\n  orig: 204, 197\n  offset: 0, 0\n  index: -1\nspin_flash-A\n  rotate: false\n  xy: 201, 10\n  size: 81, 82\n  orig: 82, 82\n  offset: 1, 0\n  index: -1\nspin_flash-B\n  rotate: true\n  xy: 565, 2\n  size: 107, 106\n  orig: 109, 106\n  offset: 0, 0\n  index: -1\nspin_light-A\n  rotate: false\n  xy: 284, 61\n  size: 31, 31\n  orig: 37, 31\n  offset: 6, 0\n  index: -1\nspin_push\n  rotate: false\n  xy: 561, 111\n  size: 113, 111\n  orig: 113, 114\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "3f294828-5870-490d-a261-fb66535b8664"
+    }
+  ],
+  "textureNames": [
+    "skeleton.png"
+  ],
+  "scale": 1
+}

@@ -1,0 +1,106 @@
+<html>
+<head>
+  <link rel="icon" href="app/editor/static/preview-templates/favicon.ico"></link>
+  <meta charset="utf-8">
+  <title>戰神賽特</title>
+  <link rel="stylesheet" type="text/css" href="style.css"/>
+  <script>
+    var input_element = document.getElementById("EditBoxId_1");
+    var game_div = document.getElementById("Cocos2dGameContainer");
+
+    window.addEventListener("scroll", function () {
+      window.pageYOffset = 0;
+      document.documentElement.scrollTop = 0;
+      document.body.scrollTop = 0;
+
+      if (window.pageYOffset > 10) {
+        document.body.style.position = "";
+        document.body.style.overflow = "hidden";
+        document.body.style.top = "100px";
+        document.body.style.left = "0px";
+
+        game_div.style.position = "fixed";
+        game_div.style.top = "100px";
+        game_div.style.left = "0px";
+
+      } else {
+        document.body.style.position = "";
+        document.body.style.overflow = "hidden";
+        document.body.style.top = "0px";
+        document.body.style.left = "0px";
+
+        game_div.style.position = "fixed";
+        game_div.style.top = "0px";
+        game_div.style.left = "0px";
+      };
+
+    });
+
+
+    input_element.addEventListener('focus', function() {
+
+      var window_h = window.innerHeight;
+      var keyboard_h = window.screen.height - window_h;
+    });
+
+    input_element.addEventListener('blur', function() {
+
+    });
+    
+  </script>
+</head>
+<body>
+  <canvas id="GameCanvas" oncontextmenu="event.preventDefault()" tabindex="0"></canvas>
+  <div id="splash">
+    <div class="progress-bar stripes">
+      <span style="width: 0%"></span>
+    </div>
+  </div>
+<script src="settings.js" charset="utf-8"></script>
+<script src="vconsole.min.js"></script>
+<script src="boot.js" charset="utf-8"></script>
+<script src="/socket.io/socket.io.js" charset="utf-8"></script>
+<script src="app/engine/bin/<%=cocos2d%>"</script> charset="utf-8"></script>
+<script src="preview-scripts/__quick_compile__.js" charset="utf-8"></script>
+<script type="text/javascript">
+  (function () {
+      // open web debugger console (onMobile)
+      var u = navigator.userAgent;
+      var isAndroid = u.indexOf("Android") > -1 || u.indexOf("Adr") > -1; // android平台
+      var isIOS = !!u.match(/\(i[^;]+;( U;)? CPU.+Mac OS X/); // ios平台
+      if (isAndroid || isIOS) {
+        if (typeof VConsole !== "undefined") {
+          window.vConsole = new VConsole();
+        };
+      };
+  
+      //
+      var debug = window._CCSettings.debug;
+      var splash = document.getElementById("splash");
+      splash.style.display = "block";
+  
+      function loadScript (moduleName, cb) {
+        function scriptLoaded () {
+            document.body.removeChild(domScript);
+            domScript.removeEventListener("load", scriptLoaded, false);
+            cb && cb();
+        };
+        var domScript = document.createElement("script");
+        domScript.async = true;
+        domScript.src = moduleName;
+        domScript.addEventListener("load", scriptLoaded, false);
+        document.body.appendChild(domScript);
+      }
+  
+      loadScript(debug ? "cocos2d-js.js" : "cocos2d-js-min.444f6.js", function () {
+        if (CC_PHYSICS_BUILTIN || CC_PHYSICS_CANNON) {
+          loadScript(debug ? "physics.js" : "physics-min.9bae2.js", window.boot);
+        }
+        else {
+          window.boot();
+        }
+      });
+  })();
+  </script>
+</body>
+</html>

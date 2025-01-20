@@ -1,0 +1,90 @@
+
+skeleton.png
+size: 780,224
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+auto-A
+  rotate: false
+  xy: 331, 3
+  size: 115, 104
+  orig: 116, 104
+  offset: 0, 0
+  index: -1
+auto-B
+  rotate: true
+  xy: 676, 111
+  size: 111, 100
+  orig: 111, 100
+  offset: 0, 0
+  index: -1
+auto_disabled
+  rotate: false
+  xy: 448, 5
+  size: 115, 104
+  orig: 116, 104
+  offset: 0, 0
+  index: -1
+spin
+  rotate: true
+  xy: 331, 109
+  size: 113, 112
+  orig: 115, 117
+  offset: 2, 0
+  index: -1
+spin_disabled
+  rotate: true
+  xy: 445, 111
+  size: 111, 114
+  orig: 111, 114
+  offset: 0, 0
+  index: -1
+spin_efffect_in_ring-A
+  rotate: false
+  xy: 201, 94
+  size: 128, 128
+  orig: 135, 130
+  offset: 7, 0
+  index: -1
+spin_efffect_in_ring-B
+  rotate: true
+  xy: 673, 2
+  size: 107, 105
+  orig: 107, 105
+  offset: 0, 0
+  index: -1
+spin_efffect_out_ring
+  rotate: true
+  xy: 2, 24
+  size: 198, 197
+  orig: 204, 197
+  offset: 0, 0
+  index: -1
+spin_flash-A
+  rotate: false
+  xy: 201, 10
+  size: 81, 82
+  orig: 82, 82
+  offset: 1, 0
+  index: -1
+spin_flash-B
+  rotate: true
+  xy: 565, 2
+  size: 107, 106
+  orig: 109, 106
+  offset: 0, 0
+  index: -1
+spin_light-A
+  rotate: false
+  xy: 284, 61
+  size: 31, 31
+  orig: 37, 31
+  offset: 6, 0
+  index: -1
+spin_push
+  rotate: false
+  xy: 561, 111
+  size: 113, 111
+  orig: 113, 114
+  offset: 0, 0
+  index: -1

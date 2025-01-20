@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "taskbar_btn_stop",
+    "texture": "4bcf4265-e409-4da4-aa41-3b2f6f0934ff",
+    "atlas": "",
+    "rect": [
+      5,
+      5,
+      221,
+      222
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      231,
+      231
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "taskbar_information_score",
+    "texture": "3c53d549-ba5e-4635-9de9-04ad4879faae",
+    "atlas": "",
+    "rect": [
+      4,
+      6,
+      56,
+      53
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      64,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

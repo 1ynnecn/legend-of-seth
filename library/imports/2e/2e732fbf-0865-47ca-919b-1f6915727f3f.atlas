@@ -1,0 +1,384 @@
+
+skeleton.png
+size: 1278,1272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+superwin_E
+  rotate: true
+  xy: 1073, 392
+  size: 66, 121
+  orig: 70, 121
+  offset: 0, 0
+  index: -1
+superwin_P
+  rotate: false
+  xy: 934, 145
+  size: 70, 122
+  orig: 72, 122
+  offset: 2, 0
+  index: -1
+superwin_R
+  rotate: false
+  xy: 940, 17
+  size: 83, 126
+  orig: 83, 126
+  offset: 0, 0
+  index: -1
+superwin_S
+  rotate: false
+  xy: 1191, 678
+  size: 85, 122
+  orig: 101, 122
+  offset: 15, 0
+  index: -1
+superwin_U
+  rotate: false
+  xy: 965, 280
+  size: 76, 120
+  orig: 78, 120
+  offset: 2, 0
+  index: -1
+superwin_effect_1
+  rotate: false
+  xy: 2, 665
+  size: 888, 105
+  orig: 888, 106
+  offset: 0, 1
+  index: -1
+superwin_effect_2
+  rotate: false
+  xy: 2, 772
+  size: 789, 498
+  orig: 789, 499
+  offset: 0, 0
+  index: -1
+superwin_effect_3
+  rotate: false
+  xy: 2, 375
+  size: 448, 288
+  orig: 448, 291
+  offset: 0, 3
+  index: -1
+superwin_effect_keyframe/super_win_effect0000
+  rotate: true
+  xy: 1156, 292
+  size: 98, 91
+  orig: 336, 224
+  offset: 2, 121
+  index: -1
+superwin_effect_keyframe/super_win_effect0001
+  rotate: true
+  xy: 777, 533
+  size: 130, 116
+  orig: 336, 224
+  offset: 2, 99
+  index: -1
+superwin_effect_keyframe/super_win_effect0002
+  rotate: true
+  xy: 1119, 1110
+  size: 160, 133
+  orig: 336, 224
+  offset: 2, 89
+  index: -1
+superwin_effect_keyframe/super_win_effect0003
+  rotate: false
+  xy: 776, 402
+  size: 188, 129
+  orig: 336, 224
+  offset: 1, 88
+  index: -1
+superwin_effect_keyframe/super_win_effect0004
+  rotate: false
+  xy: 748, 269
+  size: 215, 131
+  orig: 336, 224
+  offset: 1, 86
+  index: -1
+superwin_effect_keyframe/super_win_effect0005
+  rotate: true
+  xy: 2, 2
+  size: 241, 131
+  orig: 336, 224
+  offset: 2, 86
+  index: -1
+superwin_effect_keyframe/super_win_effect0006
+  rotate: false
+  xy: 452, 19
+  size: 261, 131
+  orig: 336, 224
+  offset: 1, 86
+  index: -1
+superwin_effect_keyframe/super_win_effect0007
+  rotate: false
+  xy: 452, 152
+  size: 290, 131
+  orig: 336, 224
+  offset: 2, 86
+  index: -1
+superwin_effect_keyframe/super_win_effect0008
+  rotate: false
+  xy: 793, 887
+  size: 308, 130
+  orig: 336, 224
+  offset: 9, 87
+  index: -1
+superwin_effect_keyframe/super_win_effect0009
+  rotate: false
+  xy: 2, 245
+  size: 321, 128
+  orig: 336, 224
+  offset: 8, 88
+  index: -1
+superwin_effect_keyframe/super_win_effect0010
+  rotate: false
+  xy: 793, 1019
+  size: 322, 122
+  orig: 336, 224
+  offset: 8, 94
+  index: -1
+superwin_effect_keyframe/super_win_effect0011
+  rotate: false
+  xy: 452, 413
+  size: 322, 122
+  orig: 336, 224
+  offset: 7, 94
+  index: -1
+superwin_effect_keyframe/super_win_effect0012
+  rotate: false
+  xy: 793, 1143
+  size: 324, 127
+  orig: 336, 224
+  offset: 11, 86
+  index: -1
+superwin_effect_keyframe/super_win_effect0013
+  rotate: false
+  xy: 452, 537
+  size: 323, 126
+  orig: 336, 224
+  offset: 13, 84
+  index: -1
+superwin_effect_keyframe/super_win_effect0014
+  rotate: false
+  xy: 452, 285
+  size: 294, 126
+  orig: 336, 224
+  offset: 39, 86
+  index: -1
+superwin_effect_keyframe/super_win_effect0015
+  rotate: true
+  xy: 325, 118
+  size: 255, 125
+  orig: 336, 224
+  offset: 81, 85
+  index: -1
+superwin_effect_keyframe/super_win_effect0016
+  rotate: true
+  xy: 135, 13
+  size: 230, 124
+  orig: 336, 224
+  offset: 104, 84
+  index: -1
+superwin_effect_keyframe/super_win_effect0017
+  rotate: false
+  xy: 744, 142
+  size: 188, 125
+  orig: 336, 224
+  offset: 147, 81
+  index: -1
+superwin_effect_keyframe/super_win_effect0018
+  rotate: true
+  xy: 715, 2
+  size: 138, 122
+  orig: 336, 224
+  offset: 197, 84
+  index: -1
+superwin_effect_keyframe/super_win_effect0019
+  rotate: false
+  xy: 990, 786
+  size: 118, 99
+  orig: 336, 224
+  offset: 212, 103
+  index: -1
+superwin_effect_keyframe/super_win_effect0020
+  rotate: true
+  xy: 1006, 171
+  size: 107, 94
+  orig: 336, 224
+  offset: 223, 104
+  index: -1
+superwin_effect_keyframe/super_win_effect0021
+  rotate: false
+  xy: 1106, 113
+  size: 79, 91
+  orig: 336, 224
+  offset: 247, 107
+  index: -1
+superwin_effect_keyframe/super_win_effect0022
+  rotate: true
+  xy: 1025, 11
+  size: 51, 68
+  orig: 336, 224
+  offset: 279, 107
+  index: -1
+superwin_effect_keyframe/super_win_effect0023
+  rotate: false
+  xy: 895, 538
+  size: 57, 44
+  orig: 336, 224
+  offset: 67, 62
+  index: -1
+superwin_effect_keyframe/super_win_effect0024
+  rotate: false
+  xy: 1196, 400
+  size: 80, 65
+  orig: 336, 224
+  offset: 64, 42
+  index: -1
+superwin_effect_keyframe/super_win_effect0025
+  rotate: false
+  xy: 1102, 206
+  size: 102, 84
+  orig: 336, 224
+  offset: 67, 23
+  index: -1
+superwin_effect_keyframe/super_win_effect0026
+  rotate: true
+  xy: 1073, 460
+  size: 122, 97
+  orig: 336, 224
+  offset: 66, 11
+  index: -1
+superwin_effect_keyframe/super_win_effect0027
+  rotate: false
+  xy: 1117, 1008
+  size: 150, 100
+  orig: 336, 224
+  offset: 68, 7
+  index: -1
+superwin_effect_keyframe/super_win_effect0028
+  rotate: false
+  xy: 1103, 905
+  size: 173, 101
+  orig: 336, 224
+  offset: 67, 7
+  index: -1
+superwin_effect_keyframe/super_win_effect0029
+  rotate: false
+  xy: 892, 686
+  size: 194, 98
+  orig: 336, 224
+  offset: 68, 9
+  index: -1
+superwin_effect_keyframe/super_win_effect0030
+  rotate: false
+  xy: 793, 786
+  size: 195, 99
+  orig: 336, 224
+  offset: 69, 8
+  index: -1
+superwin_effect_keyframe/super_win_effect0031
+  rotate: false
+  xy: 895, 584
+  size: 191, 100
+  orig: 336, 224
+  offset: 74, 8
+  index: -1
+superwin_effect_keyframe/super_win_effect0032
+  rotate: false
+  xy: 261, 17
+  size: 188, 99
+  orig: 336, 224
+  offset: 78, 7
+  index: -1
+superwin_effect_keyframe/super_win_effect0033
+  rotate: true
+  xy: 1088, 600
+  size: 184, 101
+  orig: 336, 224
+  offset: 82, 5
+  index: -1
+superwin_effect_keyframe/super_win_effect0034
+  rotate: true
+  xy: 966, 404
+  size: 178, 105
+  orig: 336, 224
+  offset: 88, 1
+  index: -1
+superwin_effect_keyframe/super_win_effect0035
+  rotate: false
+  xy: 1110, 802
+  size: 158, 101
+  orig: 336, 224
+  offset: 109, 5
+  index: -1
+superwin_effect_keyframe/super_win_effect0036
+  rotate: true
+  xy: 839, 6
+  size: 134, 99
+  orig: 336, 224
+  offset: 132, 7
+  index: -1
+superwin_effect_keyframe/super_win_effect0037
+  rotate: false
+  xy: 1043, 293
+  size: 111, 97
+  orig: 336, 224
+  offset: 155, 7
+  index: -1
+superwin_effect_keyframe/super_win_effect0038
+  rotate: false
+  xy: 1191, 584
+  size: 85, 92
+  orig: 336, 224
+  offset: 181, 7
+  index: -1
+superwin_effect_keyframe/super_win_effect0039
+  rotate: false
+  xy: 1206, 219
+  size: 63, 71
+  orig: 336, 224
+  offset: 205, 4
+  index: -1
+superwin_effect_keyframe/super_win_effect0040
+  rotate: false
+  xy: 1187, 160
+  size: 32, 44
+  orig: 336, 224
+  offset: 234, 5
+  index: -1
+superwin_effect_keyframe/super_win_effect0041
+  rotate: false
+  xy: 1187, 133
+  size: 31, 25
+  orig: 336, 224
+  offset: 67, 82
+  index: -1
+win_I
+  rotate: false
+  xy: 261, 141
+  size: 44, 102
+  orig: 45, 102
+  offset: 1, 0
+  index: -1
+win_N
+  rotate: false
+  xy: 1025, 64
+  size: 79, 105
+  orig: 79, 105
+  offset: 0, 0
+  index: -1
+win_W
+  rotate: false
+  xy: 1172, 467
+  size: 103, 115
+  orig: 103, 115
+  offset: 0, 0
+  index: -1
+win_light
+  rotate: false
+  xy: 1106, 37
+  size: 85, 74
+  orig: 87, 74
+  offset: 0, 0
+  index: -1

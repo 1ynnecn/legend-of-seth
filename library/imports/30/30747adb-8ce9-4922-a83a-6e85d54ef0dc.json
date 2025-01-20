@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dialog_setting_progressbar_slider",
+    "texture": "17a30e4c-3f87-4982-8991-1275982e344a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      48,
+      49
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      48,
+      49
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

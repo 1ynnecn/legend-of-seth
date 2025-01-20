@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "taskbar_btn_plus",
+    "texture": "5c486304-4428-4dea-8795-2772389ef15c",
+    "atlas": "",
+    "rect": [
+      6,
+      6,
+      219,
+      219
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      231,
+      231
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

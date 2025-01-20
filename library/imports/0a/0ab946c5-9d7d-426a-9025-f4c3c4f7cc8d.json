@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "menu_btn_tible_icon",
+    "texture": "43bc3c80-cd1e-4a28-8489-c59a15c0ebc2",
+    "atlas": "",
+    "rect": [
+      11,
+      8,
+      65,
+      74
+    ],
+    "offset": [
+      -0.5,
+      -1
+    ],
+    "originalSize": [
+      88,
+      88
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

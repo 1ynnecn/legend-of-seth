@@ -1,0 +1,230 @@
+
+skeleton.png
+size: 7690,8650
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+freegame_out_animation/freegame_out_animation0000
+  rotate: true
+  xy: 2, 6538
+  size: 1080, 1692
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+freegame_out_animation/freegame_out_animation0001
+  rotate: true
+  xy: 3543, 6496
+  size: 1078, 1701
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+freegame_out_animation/freegame_out_animation0002
+  rotate: true
+  xy: 5246, 6494
+  size: 1080, 1844
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+freegame_out_animation/freegame_out_animation0003
+  rotate: true
+  xy: 2, 5417
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+freegame_out_animation/freegame_out_animation0004
+  rotate: true
+  xy: 1924, 5414
+  size: 1080, 1905
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+freegame_out_animation/freegame_out_animation0005
+  rotate: true
+  xy: 3831, 5412
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+freegame_out_animation/freegame_out_animation0006
+  rotate: true
+  xy: 5753, 5412
+  size: 1080, 1874
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+freegame_out_animation/freegame_out_animation0007
+  rotate: true
+  xy: 2, 4335
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+freegame_out_animation/freegame_out_animation0008
+  rotate: true
+  xy: 3831, 4330
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+freegame_out_animation/freegame_out_animation0009
+  rotate: true
+  xy: 5753, 4330
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+freegame_out_animation/freegame_out_animation0010
+  rotate: true
+  xy: 2, 3253
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+freegame_out_animation/freegame_out_animation0011
+  rotate: true
+  xy: 1924, 3248
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+freegame_out_animation/freegame_out_animation0012
+  rotate: true
+  xy: 3846, 3248
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+freegame_out_animation/freegame_out_animation0013
+  rotate: true
+  xy: 5768, 3248
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+freegame_out_animation/freegame_out_animation0014
+  rotate: true
+  xy: 2, 2171
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+freegame_out_animation/freegame_out_animation0015
+  rotate: true
+  xy: 1924, 2166
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+freegame_out_animation/freegame_out_animation0016
+  rotate: true
+  xy: 3846, 2166
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+freegame_out_animation/freegame_out_animation0017
+  rotate: true
+  xy: 5768, 2166
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+freegame_out_animation/freegame_out_animation0018
+  rotate: true
+  xy: 2, 1089
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+freegame_out_animation/freegame_out_animation0019
+  rotate: true
+  xy: 1924, 1084
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+freegame_out_animation/freegame_out_animation0020
+  rotate: true
+  xy: 3846, 1084
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+freegame_out_animation/freegame_out_animation0021
+  rotate: true
+  xy: 5768, 1084
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+freegame_out_animation/freegame_out_animation0022
+  rotate: true
+  xy: 1924, 4332
+  size: 1080, 1905
+  orig: 1080, 1920
+  offset: 0, 15
+  index: -1
+freegame_out_animation/freegame_out_animation0023
+  rotate: true
+  xy: 2, 7
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+freegame_out_animation/freegame_out_animation0024
+  rotate: true
+  xy: 1924, 2
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+freegame_out_animation/freegame_out_animation0025
+  rotate: true
+  xy: 3846, 2
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+freegame_out_animation/freegame_out_animation0026
+  rotate: true
+  xy: 5768, 2
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+freegame_out_animation/freegame_out_animation0027
+  rotate: true
+  xy: 5202, 7576
+  size: 1072, 1905
+  orig: 1080, 1920
+  offset: 8, 0
+  index: -1
+freegame_out_animation/freegame_out_animation0028
+  rotate: true
+  xy: 3325, 7578
+  size: 1070, 1875
+  orig: 1080, 1920
+  offset: 10, 30
+  index: -1
+freegame_out_animation/freegame_out_animation0029
+  rotate: true
+  xy: 1696, 6499
+  size: 1077, 1845
+  orig: 1080, 1920
+  offset: 3, 45
+  index: -1
+freegame_out_animation/freegame_out_animation0030
+  rotate: true
+  xy: 1700, 7584
+  size: 1064, 1623
+  orig: 1080, 1920
+  offset: 0, 137
+  index: -1
+freegame_out_animation/freegame_out_animation0031
+  rotate: true
+  xy: 2, 7620
+  size: 1028, 1696
+  orig: 1080, 1920
+  offset: 31, 114
+  index: -1

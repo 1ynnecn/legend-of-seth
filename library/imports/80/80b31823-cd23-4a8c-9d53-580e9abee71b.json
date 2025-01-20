@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dialog_rule_title",
+    "texture": "7c9bebf8-42e0-4ca2-bddd-ebf0ab9df151",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      232,
+      54
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      232,
+      54
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

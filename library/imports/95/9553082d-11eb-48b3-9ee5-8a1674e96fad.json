@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "taskbar_btn_skip_on",
+    "texture": "f17b5f58-f58c-4c8c-9ec3-3a2446da9523",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      231,
+      231
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      231,
+      231
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

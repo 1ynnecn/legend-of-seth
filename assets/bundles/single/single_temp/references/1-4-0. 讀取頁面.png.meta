@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "261e7a6b-5c48-42ed-8912-0750bb3f7b5a",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1080,
+  "height": 1920,
+  "platformSettings": {},
+  "subMetas": {
+    "1-4-0. 讀取頁面": {
+      "ver": "1.0.6",
+      "uuid": "d3be4a29-6ba5-41bd-b2f9-5ce9cb318b85",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "261e7a6b-5c48-42ed-8912-0750bb3f7b5a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1080,
+      "height": 1920,
+      "rawWidth": 1080,
+      "rawHeight": 1920,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "taskbar_information_diamond_icon",
+    "texture": "ae3bee4d-f0f6-4dc4-afa2-3910c474aa13",
+    "atlas": "",
+    "rect": [
+      0,
+      4,
+      63,
+      57
+    ],
+    "offset": [
+      -0.5,
+      -0.5
+    ],
+    "originalSize": [
+      64,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "skeleton",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "sduOYAIuj5TJ9S8dJ0GOuF7pPz0",
+      "spine": "3.8.75",
+      "x": -56,
+      "y": -56,
+      "width": 112,
+      "height": 112,
+      "images": "./images/",
+      "audio": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "coin",
+        "parent": "root"
+      }
+    ],
+    "slots": [
+      {
+        "name": "coin_keyframe",
+        "bone": "coin",
+        "attachment": "coin_keyframe/coin_keyframe0023"
+      }
+    ],
+    "skins": [
+      {
+        "name": "default",
+        "attachments": {
+          "coin_keyframe": {
+            "coin_keyframe/coin_keyframe0000": {
+              "width": 112,
+              "height": 112
+            },
+            "coin_keyframe/coin_keyframe0001": {
+              "width": 112,
+              "height": 112
+            },
+            "coin_keyframe/coin_keyframe0002": {
+              "width": 112,
+              "height": 112
+            },
+            "coin_keyframe/coin_keyframe0003": {
+              "width": 112,
+              "height": 112
+            },
+            "coin_keyframe/coin_keyframe0004": {
+              "width": 112,
+              "height": 112
+            },
+            "coin_keyframe/coin_keyframe0005": {
+              "width": 112,
+              "height": 112
+            },
+            "coin_keyframe/coin_keyframe0006": {
+              "width": 112,
+              "height": 112
+            },
+            "coin_keyframe/coin_keyframe0007": {
+              "width": 112,
+              "height": 112
+            },
+            "coin_keyframe/coin_keyframe0008": {
+              "width": 112,
+              "height": 112
+            },
+            "coin_keyframe/coin_keyframe0009": {
+              "width": 112,
+              "height": 112
+            },
+            "coin_keyframe/coin_keyframe0010": {
+              "width": 112,
+              "height": 112
+            },
+            "coin_keyframe/coin_keyframe0011": {
+              "width": 112,
+              "height": 112
+            },
+            "coin_keyframe/coin_keyframe0012": {
+              "width": 112,
+              "height": 112
+            },
+            "coin_keyframe/coin_keyframe0013": {
+              "width": 112,
+              "height": 112
+            },
+            "coin_keyframe/coin_keyframe0014": {
+              "width": 112,
+              "height": 112
+            },
+            "coin_keyframe/coin_keyframe0015": {
+              "width": 112,
+              "height": 112
+            },
+            "coin_keyframe/coin_keyframe0016": {
+              "width": 112,
+              "height": 112
+            },
+            "coin_keyframe/coin_keyframe0017": {
+              "width": 112,
+              "height": 112
+            },
+            "coin_keyframe/coin_keyframe0018": {
+              "width": 112,
+              "height": 112
+            },
+            "coin_keyframe/coin_keyframe0019": {
+              "width": 112,
+              "height": 112
+            },
+            "coin_keyframe/coin_keyframe0020": {
+              "width": 112,
+              "height": 112
+            },
+            "coin_keyframe/coin_keyframe0021": {
+              "width": 112,
+              "height": 112
+            },
+            "coin_keyframe/coin_keyframe0022": {
+              "width": 112,
+              "height": 112
+            },
+            "coin_keyframe/coin_keyframe0023": {
+              "width": 112,
+              "height": 112
+            }
+          }
+        }
+      }
+    ],
+    "animations": {
+      "coin": {
+        "slots": {
+          "coin_keyframe": {
+            "attachment": [
+              {
+                "name": "coin_keyframe/coin_keyframe0000"
+              },
+              {
+                "time": 0.0581,
+                "name": "coin_keyframe/coin_keyframe0001"
+              },
+              {
+                "time": 0.1162,
+                "name": "coin_keyframe/coin_keyframe0002"
+              },
+              {
+                "time": 0.1743,
+                "name": "coin_keyframe/coin_keyframe0003"
+              },
+              {
+                "time": 0.2323,
+                "name": "coin_keyframe/coin_keyframe0004"
+              },
+              {
+                "time": 0.2904,
+                "name": "coin_keyframe/coin_keyframe0005"
+              },
+              {
+                "time": 0.3485,
+                "name": "coin_keyframe/coin_keyframe0006"
+              },
+              {
+                "time": 0.4066,
+                "name": "coin_keyframe/coin_keyframe0007"
+              },
+              {
+                "time": 0.4647,
+                "name": "coin_keyframe/coin_keyframe0008"
+              },
+              {
+                "time": 0.5228,
+                "name": "coin_keyframe/coin_keyframe0009"
+              },
+              {
+                "time": 0.5808,
+                "name": "coin_keyframe/coin_keyframe0010"
+              },
+              {
+                "time": 0.6389,
+                "name": "coin_keyframe/coin_keyframe0011"
+              },
+              {
+                "time": 0.697,
+                "name": "coin_keyframe/coin_keyframe0012"
+              },
+              {
+                "time": 0.7551,
+                "name": "coin_keyframe/coin_keyframe0013"
+              },
+              {
+                "time": 0.8132,
+                "name": "coin_keyframe/coin_keyframe0014"
+              },
+              {
+                "time": 0.8713,
+                "name": "coin_keyframe/coin_keyframe0015"
+              },
+              {
+                "time": 0.9294,
+                "name": "coin_keyframe/coin_keyframe0016"
+              },
+              {
+                "time": 0.9874,
+                "name": "coin_keyframe/coin_keyframe0017"
+              },
+              {
+                "time": 1.0455,
+                "name": "coin_keyframe/coin_keyframe0018"
+              },
+              {
+                "time": 1.1036,
+                "name": "coin_keyframe/coin_keyframe0019"
+              },
+              {
+                "time": 1.1617,
+                "name": "coin_keyframe/coin_keyframe0020"
+              },
+              {
+                "time": 1.2198,
+                "name": "coin_keyframe/coin_keyframe0021"
+              },
+              {
+                "time": 1.2779,
+                "name": "coin_keyframe/coin_keyframe0022"
+              },
+              {
+                "time": 1.3359,
+                "name": "coin_keyframe/coin_keyframe0023"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nskeleton.png\nsize: 802,183\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\ncoin_keyframe/coin_keyframe0000\n  rotate: false\n  xy: 196, 86\n  size: 12, 95\n  orig: 112, 112\n  offset: 50, 8\n  index: -1\ncoin_keyframe/coin_keyframe0001\n  rotate: false\n  xy: 149, 86\n  size: 45, 95\n  orig: 112, 112\n  offset: 33, 8\n  index: -1\ncoin_keyframe/coin_keyframe0002\n  rotate: true\n  xy: 250, 12\n  size: 73, 90\n  orig: 112, 112\n  offset: 19, 11\n  index: -1\ncoin_keyframe/coin_keyframe0003\n  rotate: true\n  xy: 563, 91\n  size: 90, 86\n  orig: 112, 112\n  offset: 11, 13\n  index: -1\ncoin_keyframe/coin_keyframe0004\n  rotate: false\n  xy: 2, 2\n  size: 95, 82\n  orig: 112, 112\n  offset: 9, 14\n  index: -1\ncoin_keyframe/coin_keyframe0005\n  rotate: true\n  xy: 473, 91\n  size: 90, 88\n  orig: 112, 112\n  offset: 11, 12\n  index: -1\ncoin_keyframe/coin_keyframe0006\n  rotate: true\n  xy: 342, 12\n  size: 73, 90\n  orig: 112, 112\n  offset: 19, 11\n  index: -1\ncoin_keyframe/coin_keyframe0007\n  rotate: false\n  xy: 285, 87\n  size: 45, 94\n  orig: 112, 112\n  offset: 33, 9\n  index: -1\ncoin_keyframe/coin_keyframe0008\n  rotate: false\n  xy: 210, 86\n  size: 12, 95\n  orig: 112, 112\n  offset: 50, 8\n  index: -1\ncoin_keyframe/coin_keyframe0009\n  rotate: false\n  xy: 379, 89\n  size: 45, 92\n  orig: 112, 112\n  offset: 33, 10\n  index: -1\ncoin_keyframe/coin_keyframe0010\n  rotate: false\n  xy: 175, 2\n  size: 73, 82\n  orig: 112, 112\n  offset: 20, 15\n  index: -1\ncoin_keyframe/coin_keyframe0011\n  rotate: false\n  xy: 710, 22\n  size: 90, 67\n  orig: 112, 112\n  offset: 11, 22\n  index: -1\ncoin_keyframe/coin_keyframe0012\n  rotate: true\n  xy: 87, 86\n  size: 95, 60\n  orig: 112, 112\n  offset: 9, 25\n  index: -1\ncoin_keyframe/coin_keyframe0013\n  rotate: true\n  xy: 726, 91\n  size: 90, 67\n  orig: 112, 112\n  offset: 11, 22\n  index: -1\ncoin_keyframe/coin_keyframe0014\n  rotate: false\n  xy: 99, 2\n  size: 74, 82\n  orig: 112, 112\n  offset: 16, 15\n  index: -1\ncoin_keyframe/coin_keyframe0015\n  rotate: false\n  xy: 426, 89\n  size: 45, 92\n  orig: 112, 112\n  offset: 33, 10\n  index: -1\ncoin_keyframe/coin_keyframe0016\n  rotate: false\n  xy: 224, 86\n  size: 11, 95\n  orig: 112, 112\n  offset: 50, 7\n  index: -1\ncoin_keyframe/coin_keyframe0017\n  rotate: false\n  xy: 332, 87\n  size: 45, 94\n  orig: 112, 112\n  offset: 33, 9\n  index: -1\ncoin_keyframe/coin_keyframe0018\n  rotate: true\n  xy: 618, 16\n  size: 73, 90\n  orig: 112, 112\n  offset: 19, 11\n  index: -1\ncoin_keyframe/coin_keyframe0019\n  rotate: false\n  xy: 526, 2\n  size: 90, 87\n  orig: 112, 112\n  offset: 11, 12\n  index: -1\ncoin_keyframe/coin_keyframe0020\n  rotate: true\n  xy: 2, 86\n  size: 95, 83\n  orig: 112, 112\n  offset: 8, 14\n  index: -1\ncoin_keyframe/coin_keyframe0021\n  rotate: false\n  xy: 434, 2\n  size: 90, 85\n  orig: 112, 112\n  offset: 11, 13\n  index: -1\ncoin_keyframe/coin_keyframe0022\n  rotate: false\n  xy: 651, 91\n  size: 73, 90\n  orig: 112, 112\n  offset: 20, 11\n  index: -1\ncoin_keyframe/coin_keyframe0023\n  rotate: false\n  xy: 237, 87\n  size: 46, 94\n  orig: 112, 112\n  offset: 33, 6\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "2fc90ee3-c309-433f-9159-93d73b628a4b"
+    }
+  ],
+  "textureNames": [
+    "skeleton.png"
+  ],
+  "scale": 1
+}

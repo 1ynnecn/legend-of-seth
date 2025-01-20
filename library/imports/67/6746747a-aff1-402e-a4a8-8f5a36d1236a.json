@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dialog_rule_icon ",
+    "texture": "8e45557f-b622-4001-b75d-acdfbe601caa",
+    "atlas": "",
+    "rect": [
+      14,
+      15,
+      60,
+      59
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      88,
+      88
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

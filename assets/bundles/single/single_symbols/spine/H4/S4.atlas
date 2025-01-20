@@ -1,0 +1,55 @@
+
+S4.png
+size: 530,99
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 355, 2
+  size: 95, 70
+  orig: 95, 70
+  offset: 0, 0
+  index: -1
+brown background
+  rotate: true
+  xy: 193, 5
+  size: 92, 83
+  orig: 96, 91
+  offset: 2, 2
+  index: -1
+golden frame
+  rotate: false
+  xy: 2, 5
+  size: 99, 92
+  orig: 104, 96
+  offset: 3, 2
+  index: -1
+halolight
+  rotate: true
+  xy: 427, 26
+  size: 71, 55
+  orig: 71, 55
+  offset: 0, 0
+  index: -1
+pattern
+  rotate: true
+  xy: 103, 5
+  size: 92, 88
+  orig: 94, 166
+  offset: 1, 49
+  index: -1
+red light
+  rotate: true
+  xy: 484, 38
+  size: 59, 44
+  orig: 59, 44
+  offset: 0, 0
+  index: -1
+yellow bottom
+  rotate: true
+  xy: 278, 2
+  size: 95, 75
+  orig: 97, 77
+  offset: 2, 1
+  index: -1

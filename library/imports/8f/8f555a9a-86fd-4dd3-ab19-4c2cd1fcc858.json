@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "loading_progress_bar_2",
+    "texture": "630947fd-dccc-424e-b6fd-029f93e7f268",
+    "atlas": "",
+    "rect": [
+      14,
+      17,
+      900,
+      53
+    ],
+    "offset": [
+      0,
+      -3.5
+    ],
+    "originalSize": [
+      928,
+      80
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
