@@ -1,1 +1,0 @@
-{"version":3,"sources":["assets\\scripts\\common\\i18n\\zh_cn.ts"],"names":[],"mappings":";;;;;;AAAA,IAAM,KAAK,GAAG,EAEb,CAAC;AAEF,kBAAe,KAAK,CAAC","file":"","sourceRoot":"/","sourcesContent":["const zh_cn = {\n\n};\n\nexport default zh_cn;"]}
